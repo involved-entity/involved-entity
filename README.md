@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=troubleifyouhide&theme=dracula" alt="codewars graph"/>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=troubleifyouhide&theme=dracula" width="400" alt="codewars graph"/>
 </div>
 
 ###
