@@ -9,12 +9,20 @@
 
 ###
 
+<div align="center">
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=troubleifyouhide&theme=dracula" alt="codewars graph"/>
+</div>
+
+###
+
 <img align="right" height="150" src="https://c.tenor.com/9JQLsLL218cAAAAC/tenor.gif">
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo"  />
   <img width="12" />
