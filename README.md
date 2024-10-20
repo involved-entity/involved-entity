@@ -1,10 +1,10 @@
-<h2 align="left">Wassup!! My name is waflawe and I'm a Python + Vue 3 Fullstack Developer from Russia.</h2>
+<h2 align="left">Wassup!! My name is waflawe and I'm a Python + Vue Fullstack Developer from Russia.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waflawe&show_icons=true&theme=synthwave" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waflawe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=waflawe&theme=synthwave&show_icons=true&hide_border=true&count_private=true" height="150" alt="waflawe's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waflawe&theme=synthwave&show_icons=true&hide_border=true&layout=compact" height="150" alt="waflawe's GitHub Stats" />
 </div>
 
 ###
