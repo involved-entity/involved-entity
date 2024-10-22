@@ -1,4 +1,4 @@
-<h2 align="left">Wassup!! My name is waflawe and I'm a Python + Vue Fullstack Developer from Russia.</h2>
+<h2 align="left">Wassup!! My name is Nikolai and I'm a Python + Vue Fullstack Developer from Russia.</h2>
 
 ###
 
