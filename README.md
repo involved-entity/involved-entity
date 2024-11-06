@@ -1,4 +1,4 @@
-<h2 align="center">A Python + Vue Fullstack Developer from Russia.</h2>
+<h2 align="center">A Python + Vue Fullstack Developer from Russia</h2>
 
 ###
 
@@ -9,11 +9,13 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=troubleifyouhide&theme=dracula" width="400" alt="codewars graph"/>
 </div>
+-->
 
-###
+<!--###-->
 
 <img align="right" height="150" src="https://c.tenor.com/9JQLsLL218cAAAAC/tenor.gif">
 
