@@ -1,4 +1,4 @@
-<h2 align="center">A Python + Vue Fullstack Developer from Russia</h2>
+<h2 align="center">A Django + Nuxt.js Fullstack Developer from Russia</h2>
 
 ###
 
