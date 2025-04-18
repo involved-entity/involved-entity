@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waflawe&theme=synthwave&show_icons=true&hide_border=true&count_private=true" height="150" alt="waflawe's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waflawe&theme=synthwave&show_icons=true&hide_border=true&layout=compact" height="150" alt="waflawe's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=involved-entity&theme=synthwave&show_icons=true&hide_border=true&count_private=true" height="150" alt="'s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=involved-entity&theme=synthwave&show_icons=true&hide_border=true&layout=compact" height="150" alt="'s GitHub Stats" />
 </div>
 
 ###
