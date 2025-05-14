@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=troubleifyouhide&theme=dracula" width="350" height="150" alt="codewars graph"/>
-  <img align="center" height="150" src="https://c.tenor.com/9JQLsLL218cAAAAC/tenor.gif"/>
+  <img height="150" src="https://c.tenor.com/9JQLsLL218cAAAAC/tenor.gif" style="border-radius: 16px" />
 </div>
 
 ###
