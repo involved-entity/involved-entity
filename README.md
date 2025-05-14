@@ -9,17 +9,9 @@
 
 ###
 
-<!--
 <div align="center">
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=troubleifyouhide&theme=dracula" width="400" alt="codewars graph"/>
-</div>
--->
-
-<!--###-->
-
-<div align="center">
-  <img align="center" height="150" src="https://c.tenor.com/9JQLsLL218cAAAAC/tenor.gif">
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=troubleifyouhide&theme=dracula" width="350" height="150" alt="codewars graph"/>
+  <img align="center" height="150" src="https://c.tenor.com/9JQLsLL218cAAAAC/tenor.gif"/>
 </div>
 
-###
 ###
