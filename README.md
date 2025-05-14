@@ -1,4 +1,4 @@
-<h2 align="center">A Python + Nuxt.js Fullstack Developer from Russia</h2>
+<h2 align="center">A Python/Golang + Nuxt.js Fullstack Developer</h2>
 
 ###
 
