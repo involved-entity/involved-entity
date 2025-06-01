@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=involved-entity&label=visitors&color=blue" alt="'s GitHub Stats" />
-</div>
 <h2 align="center">A Python/Golang + Nuxt.js Fullstack Developer</h2>
 
 <div align="center">
@@ -13,4 +10,8 @@
   <img height="150" src="https://c.tenor.com/9JQLsLL218cAAAAC/tenor.gif" style="border-radius: 16px" />
 </div>
 
-###
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=involved-entity&label=visitors&color=blue" alt="'s GitHub Stats" />
+</div>
